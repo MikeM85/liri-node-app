@@ -119,3 +119,75 @@ Country: United States
 
 City: Bogotá
 Country: Colombia
+
+---------------------------------------------------
+
+Artist: Sam Smith
+Song: Dancing With A Stranger (with Normani)
+Preview: null
+Album: Dancing With A Stranger (with Normani)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/05/2019
+City: Bogotá
+Name: Festival Estéreo Picnic
+
+---------------------------------------------------
+
+Name: Sala Puebla
+City: Mexico
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Shaky Knees Festival
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+Date: 04/10/2019
+
+---------------------------------------------------
+
+Country: Colombia
+
+---------------------------------------------------
+
+Date: 04/05/2019
+Name: Festival Estéreo Picnic
+City: Bogotá
+Country: Colombia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/10/2019
+Name: Sala Puebla
+City: Mexico
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Shaky Knees Festival
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+

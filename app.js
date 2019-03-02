@@ -1,5 +1,5 @@
-var keys = require("./keys.js");
 require("dotenv").config();
+var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
 var fs = require("fs");
 var request = require('request');
@@ -53,7 +53,6 @@ function spotSong(parameter) {
   function bandThing(parameter){
 
     if (action === 'concert-this'){
-    
     
     var queryUrl = "https://rest.bandsintown.com/artists/" + parameter + "/events?app_id=codingbootcamp";
     
