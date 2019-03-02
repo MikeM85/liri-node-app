@@ -19,6 +19,10 @@ function switchCase() {
         case 'concert-this':
         bandThing(parameter);
         break;
+
+        case 'movie-this':
+        movieThing(parameter);
+        break;
     }
 };
 
@@ -88,6 +92,35 @@ function spotSong(parameter) {
     });
     }
 }
+
+function movieThing(parameter) {
+
+
+  var findMovie;
+  if (parameter === undefined) {
+    findMovie = "Dead Man";
+  } else {
+    findMovie = parameter;
+  };
+
+  var queryUrl = "http://www.omdbapi.com/?t=" + findMovie + "&y=&plot=short&apikey=trilogy";
+  
+  request(queryUrl, function(err, res, body) {
+  	var bodyOf = JSON.parse(body);
+    if (!err && res.statusCode === 200) {
+      logIt("\n---------------------------------------------------\n");
+      logIt("Title: " + bodyOf.Title);
+      logIt("Release Year: " + bodyOf.Year);
+      logIt("IMDB Rating: " + bodyOf.imdbRating);
+      logIt("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value); 
+      logIt("Country: " + bodyOf.Country);
+      logIt("Language: " + bodyOf.Language);
+      logIt("Plot: " + bodyOf.Plot);
+      logIt("Actors: " + bodyOf.Actors);
+      logIt("\n---------------------------------------------------\n");
+    }
+  });
+};
 
   function logIt(dataToLog) {
     

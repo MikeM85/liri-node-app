@@ -191,3 +191,737 @@ Country: United States
 
 ---------------------------------------------------
 
+
+---------------------------------------------------
+
+Country: Ireland
+
+---------------------------------------------------
+
+City: Dublin
+Date: 03/15/2019
+Name: Button Factory
+
+---------------------------------------------------
+
+Title: Zombie
+Country: Italy
+Language: English, Spanish, Italian
+Plot: Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.
+Actors: Tisa Farrow, Ian McCulloch, Richard Johnson, Al Cliver
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 40%
+Release Year: 1979
+IMDB Rating: 6.9
+
+---------------------------------------------------
+
+Title: Zombie
+IMDB Rating: 6.9
+Rotten Tomatoes Rating: 40%
+Release Year: 1979
+Country: Italy
+Language: English, Spanish, Italian
+Plot: Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.
+Actors: Tisa Farrow, Ian McCulloch, Richard Johnson, Al Cliver
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Airplane!
+Release Year: 1980
+Language: English
+Plot: A man afraid to fly must ensure that a plane lands safely after the pilots become sick.
+Actors: Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 97%
+Country: USA
+IMDB Rating: 7.8
+
+---------------------------------------------------
+
+Artist: Lady Gaga
+Song: Bad Romance
+Preview: null
+Album: The Fame Monster
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Festival Estéreo Picnic
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/10/2019
+Name: Sala Puebla
+City: Mexico
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Shaky Knees Festival
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+Country: Colombia
+Date: 04/05/2019
+City: Bogotá
+
+---------------------------------------------------
+
+Title: A Star Is Born
+Country: USA
+Language: English
+Plot: A musician helps a young singer find fame, even as age and alcoholism send his own career into a downward spiral.
+Actors: Lady Gaga, Bradley Cooper, Sam Elliott, Andrew Dice Clay
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 90%
+Release Year: 2018
+IMDB Rating: 7.9
+
+---------------------------------------------------
+
+Date: 04/05/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/10/2019
+Name: Sala Puebla
+City: Mexico
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Shaky Knees Festival
+City: Atlanta
+Country: GA
+City: Bogotá
+
+---------------------------------------------------
+
+Name: Festival Estéreo Picnic
+Country: Colombia
+Country: United States
+
+---------------------------------------------------
+
+Date: 03/07/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/08/2019
+Name: Club Chocolate
+City: Recoleta
+
+---------------------------------------------------
+
+Country: Chile
+Date: 03/09/2019
+
+---------------------------------------------------
+
+Name: El Huevo
+City: Valparaíso
+Country: Chile
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/10/2019
+Name: Palermo SOHO - Plaza Serrano
+City: Palermo
+Country: Argentina
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/05/2019
+Name: BSP Kingston
+City: Kingston
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/06/2019
+Name: Trenton Punk Rock Flea Market After Party
+City: Trenton
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/27/2019
+Name: Skamouth Festival
+City: Great Yarmouth
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Providencia
+Name: 1865
+City: Southampton
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: Catton Hall & Park
+City: Catton
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/05/2019
+Name: Drumlanrig Castle
+City: Dumfries & Galloway
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: EN NORD BEAT FESTIVAL
+Name: Subterraneo
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/12/2019
+Name: Mighty Sounds
+City: Tábor
+Country: Czech Republic
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/19/2019
+Name: Nozstock The Hidden Valley
+City: Bromyard
+Country: United Kingdom
+Country: Chile
+City: Bailleul
+Date: 05/23/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/07/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/08/2019
+Name: Club Chocolate
+City: Recoleta
+Country: Chile
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/09/2019
+Name: El Huevo
+City: Valparaíso
+Country: Chile
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/10/2019
+Name: Palermo SOHO - Plaza Serrano
+City: Palermo
+Country: Argentina
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/05/2019
+Name: BSP Kingston
+City: Kingston
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/06/2019
+Name: Trenton Punk Rock Flea Market After Party
+City: Trenton
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/27/2019
+Name: Skamouth Festival
+City: Great Yarmouth
+Country: United Kingdom
+
+---------------------------------------------------
+
+Name: Subterraneo
+Date: 05/23/2019
+Name: 1865
+City: Southampton
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: Catton Hall & Park
+City: Catton
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/05/2019
+Name: Drumlanrig Castle
+City: Dumfries & Galloway
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: EN NORD BEAT FESTIVAL
+City: Bailleul
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/12/2019
+Name: Mighty Sounds
+City: Tábor
+Country: Czech Republic
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/19/2019
+City: Providencia
+City: Bromyard
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Chile
+Name: Nozstock The Hidden Valley
+
+---------------------------------------------------
+
+Name: Subterraneo
+Date: 03/07/2019
+City: Providencia
+Country: Chile
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/08/2019
+Name: Club Chocolate
+City: Recoleta
+Country: Chile
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/09/2019
+City: Valparaíso
+Name: El Huevo
+
+---------------------------------------------------
+
+Country: Chile
+
+---------------------------------------------------
+
+Date: 03/10/2019
+Name: Palermo SOHO - Plaza Serrano
+City: Palermo
+Country: Argentina
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/05/2019
+Name: BSP Kingston
+City: Kingston
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/06/2019
+Name: Trenton Punk Rock Flea Market After Party
+City: Trenton
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/27/2019
+Name: Skamouth Festival
+City: Great Yarmouth
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/23/2019
+Name: 1865
+City: Southampton
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: Catton Hall & Park
+City: Catton
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/05/2019
+Name: Drumlanrig Castle
+City: Dumfries & Galloway
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: EN NORD BEAT FESTIVAL
+City: Bailleul
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/12/2019
+Name: Mighty Sounds
+Country: Czech Republic
+City: Tábor
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/19/2019
+Name: Nozstock The Hidden Valley
+City: Bromyard
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Festival Estéreo Picnic
+Date: 04/05/2019
+City: Bogotá
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Colombia
+Date: 04/10/2019
+Name: Sala Puebla
+Date: 05/04/2019
+Country: Mexico
+
+---------------------------------------------------
+
+Country: GA
+Country: United States
+Name: Shaky Knees Festival
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Atlanta
+City: Mexico
+
+---------------------------------------------------
+
+Title: Zombie
+Release Year: 1979
+IMDB Rating: 6.9
+Rotten Tomatoes Rating: 40%
+Country: Italy
+Language: English, Spanish, Italian
+Plot: Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.
+Actors: Tisa Farrow, Ian McCulloch, Richard Johnson, Al Cliver
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+IMDB Rating: 6.9
+Country: Italy
+Plot: Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.
+Release Year: 1979
+Actors: Tisa Farrow, Ian McCulloch, Richard Johnson, Al Cliver
+
+---------------------------------------------------
+
+Title: Zombie
+Rotten Tomatoes Rating: 40%
+Language: English, Spanish, Italian
+Song: Zombie
+Artist: The Cranberries
+
+---------------------------------------------------
+
+Album: No Need To Argue
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/b15eed9403c272987a18e261e8397df11b12982b?cid=121aabd6852b4c2b8be865131959be14
+
+---------------------------------------------------
+
+Date: 04/05/2019
+Name: Festival Estéreo Picnic
+City: Bogotá
+
+---------------------------------------------------
+
+Country: Colombia
+
+---------------------------------------------------
+
+Date: 04/10/2019
+City: Mexico
+Name: Sala Puebla
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Shaky Knees Festival
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Festival Estéreo Picnic
+Date: 04/05/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/10/2019
+Name: Sala Puebla
+City: Mexico
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+City: Atlanta
+Name: Shaky Knees Festival
+Country: GA
+Country: Colombia
+Country: United States
+
+---------------------------------------------------
+
+City: Bogotá
+
+---------------------------------------------------
+
+Date: 04/05/2019
+Name: Festival Estéreo Picnic
+City: Bogotá
+Country: Colombia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Shaky Knees Festival
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+Date: 04/10/2019
+Name: Sala Puebla
+City: Mexico
+
+---------------------------------------------------
+
+Artist: The Cranberries
+Song: Zombie
+Album: No Need To Argue
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/b15eed9403c272987a18e261e8397df11b12982b?cid=121aabd6852b4c2b8be865131959be14
+
+---------------------------------------------------
+
+Title: Dead Man
+Country: USA, Germany, Japan
+Language: English, Cree
+Plot: On the run after murdering a man, accountant William Blake encounters a strange North American man named Nobody who prepares him for his journey into the spiritual world.
+Actors: Johnny Depp, Gary Farmer, Crispin Glover, Lance Henriksen
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 70%
+Release Year: 1995
+IMDB Rating: 7.7
+
+---------------------------------------------------
+
+Title: What Dreams May Come
+Release Year: 1998
+Rotten Tomatoes Rating: 54%
+IMDB Rating: 7.0
+Plot: Chris Nielsen dies in a night car crash and goes to Heaven. When time later his wife and recently widow Annie commits suicide unable to overcome the loss, he will descents Hell to save her.
+Actors: Robin Williams, Cuba Gooding Jr., Annabella Sciorra, Max von Sydow
+Country: USA, New Zealand
+Language: English
+
+---------------------------------------------------
+
