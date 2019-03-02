@@ -23,6 +23,10 @@ function switchCase() {
         case 'movie-this':
         movieThing(parameter);
         break;
+
+        case 'do-what-it-says':
+        whatItDo(parameter);
+        break;
     }
 };
 
@@ -121,6 +125,25 @@ function movieThing(parameter) {
     }
   });
 };
+
+function whatItDo() {
+  fs.readFile('random.txt', "utf8", function(error, data){
+  
+      if (error) {
+          return logIt(error);
+        }
+  
+    
+      var dataArr = data.split(",");
+      
+      if (dataArr[0] === "spotify-this-song") 
+      {
+        var songcheck = dataArr[1].trim().slice(1, -1);
+        spotSong(songcheck);
+      }
+    })
+  }
+    
 
   function logIt(dataToLog) {
     
