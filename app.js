@@ -1,63 +1,58 @@
-require("dotenv").config();
-
 var keys = require("./keys.js");
+require("dotenv").config();
+var Spotify = require('node-spotify-api');
+var fs = require("fs");
 
 var spotify = new Spotify(keys.spotify);
+var action = process.argv[2];
+var parameter = process.argv[3];
 
-var nodeArgs = process.argv;
-
-switch (action){
-   
+function switchCase() {
+    
+    switch (action) {                        
   
-    case "spotify-this-song":
-    spotifyThisSong();
-    logAction();
-    break;
+      case 'spotify-this-song':
+        spotSong(parameter);
+        break;
+    }
+};
+
+function spotSong(parameter) {
+
+    var searchTrack;
+    if (parameter === undefined) {
+      searchTrack = "The Sign ace of base";
+    } else {
+      searchTrack = parameter;
+    }
+  
+    spotify.search({
+      type: 'track',
+      query: searchTrack
+    }, function(error, data) {
+      if (error) {
+        logIt('Error occurred: ' + error);
+        return;
+      } else {
+        logIt("\n---------------------------------------------------\n");
+        logIt("Artist: " + data.tracks.items[0].artists[0].name);
+        logIt("Song: " + data.tracks.items[0].name);
+        logIt("Preview: " + data.tracks.items[3].preview_url);
+        logIt("Album: " + data.tracks.items[0].album.name);
+        logIt("\n---------------------------------------------------\n");
+        
+      }
+    });
+  };
+
+  function logIt(dataToLog) {
+    
+	console.log(dataToLog);
+
+	fs.appendFile('log.txt', dataToLog + '\n', function(err) {
+		
+		if (err) return console.log('Error logging data to file: ' + err);	
+	});
 }
 
-// * `spotify-this-song`
-function spotifyThisSong (){
-
-    spotify.search({
-      type:"track",
-      query: value}, function(err, data){
-  
-        if (err) {
-          console.log("Error occurred: " + err);
-          return;
-        }
-    // * if no song is provided then your program will default to
-    //   * "The Sign" by Ace of Base
-    if(value === ""){
-        console.log("************");
-        console.log("Artist: Ace of Base");
-        console.log("Song: The Sign");
-        console.log("Song Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE");
-        console.log("Album: The Sign");
-        console.log("************");
-    }
-    else{
-  
-    for (i = 0; i < 5; i++){
-  
-        var results = data.tracks.items[i];
-  
-        var artist = results.artists[0].name;
-        var songName = results.name;
-        var songLink = results.external_urls.spotify;
-        var album = results.album.name;
-  
-        //Need: artist(s), song's name, preview link of song, album//
-        console.log("************");
-        console.log("Artist: " + artist);
-        console.log("Song: " + songName);
-        console.log("Song Link: " + songLink);
-        console.log("Album: " + album);
-        console.log("************");
-      }
-  }
-  
-  });
-  
-  }
-  
+switchCase();
