@@ -12,14 +12,12 @@ node app.js spotify-this-song <artist/band/song name here>
 
 To find information from IMDB about a movie enter this command in terminal 
 node app.js movie-this <movie name here>
-![Alt text](/images/movie.png"Optional Title")
+![Alt text](/images/movie.png?raw=true "Optional Title")
 
 To find concert information on a band enter this command in terminal 
 node app.js concert-this <band name here>
-/Users/michaelmeleck/Desktop/liri-node-app/images/concert.png
-
+![Alt text](/images/concert.png?raw=true "Optional Title")
 
 To do something random enter this command in terminal 
 node app.js do-what-it-says
-/Users/michaelmeleck/Desktop/liri-node-app/images/doit.png
-
+![Alt text](/images/doit.png?raw=true "Optional Title")
