@@ -8,7 +8,7 @@ How users can get started with the project
 
 To find information from spotify about a song enter this command in terminal 
 node app.js spotify-this-song <artist/band/song name here>
-![Alt text](/images/spot.jpg"Optional Title")
+![Alt text](/images/spot.jpg?raw=true "Optional Title")
 
 To find information from IMDB about a movie enter this command in terminal 
 node app.js movie-this <movie name here>
