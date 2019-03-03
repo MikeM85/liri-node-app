@@ -935,3 +935,128 @@ Album: The Hits--Chapter One
 
 ---------------------------------------------------
 
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+
+---------------------------------------------------
+
+Date: 04/05/2019
+Name: Festival Estéreo Picnic
+City: Bogotá
+Country: Colombia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Sala Puebla
+Date: 04/10/2019
+City: Mexico
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Shaky Knees Festival
+City: Atlanta
+Country: United States
+Country: GA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Zombie
+Release Year: 1979
+IMDB Rating: 6.9
+Country: Italy
+Plot: Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.
+Actors: Tisa Farrow, Ian McCulloch, Richard Johnson, Al Cliver
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 40%
+Language: English, Spanish, Italian
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+Error occurred: StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}
+
+---------------------------------------------------
+
+Artist: The Cranberries
+Song: Zombie
+Preview: https://p.scdn.co/mp3-preview/b15eed9403c272987a18e261e8397df11b12982b?cid=121aabd6852b4c2b8be865131959be14
+Album: No Need To Argue
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/b15eed9403c272987a18e261e8397df11b12982b?cid=121aabd6852b4c2b8be865131959be14
+Song: Zombie
+Artist: The Cranberries
+Album: No Need To Argue
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Festival Estéreo Picnic
+Country: Colombia
+
+---------------------------------------------------
+
+Date: 04/10/2019
+Name: Sala Puebla
+City: Mexico
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Shaky Knees Festival
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/05/2019
+City: Bogotá
+
+---------------------------------------------------
+
+IMDB Rating: 6.9
+Country: Italy
+Language: English, Spanish, Italian
+Rotten Tomatoes Rating: 40%
+Release Year: 1979
+Title: Zombie
+Plot: Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.
+Actors: Tisa Farrow, Ian McCulloch, Richard Johnson, Al Cliver
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=121aabd6852b4c2b8be865131959be14
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Song: I Want It That Way
