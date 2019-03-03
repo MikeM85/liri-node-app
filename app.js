@@ -44,15 +44,15 @@ function spotSong(parameter) {
       query: searchTrack
     }, function(error, data) {
       if (error) {
-        logIt('Error occurred: ' + error);
+        displayIt('Error occurred: ' + error);
         return;
       } else {
-        logIt("\n---------------------------------------------------\n");
-        logIt("Artist: " + data.tracks.items[0].artists[0].name);
-        logIt("Song: " + data.tracks.items[0].name);
-        logIt("Preview: " + data.tracks.items[3].preview_url);
-        logIt("Album: " + data.tracks.items[0].album.name);
-        logIt("\n---------------------------------------------------\n");
+        displayIt("\n---------------------------------------------------\n");
+        displayIt("Artist: " + data.tracks.items[0].artists[0].name);
+        displayIt("Song: " + data.tracks.items[0].name);
+        displayIt("Preview: " + data.tracks.items[3].preview_url);
+        displayIt("Album: " + data.tracks.items[0].album.name);
+        displayIt("\n---------------------------------------------------\n");
         
       }
     });
@@ -78,18 +78,18 @@ function spotSong(parameter) {
             var day = dTime.substring(8,10);
             var dateForm = month + "/" + day + "/" + year
       
-          logIt("\n---------------------------------------------------\n");
+          displayIt("\n---------------------------------------------------\n");
     
             
-          logIt("Date: " + dateForm);
-          logIt("Name: " + JS[i].venue.name);
-          logIt("City: " + JS[i].venue.city);
+          displayIt("Date: " + dateForm);
+          displayIt("Name: " + JS[i].venue.name);
+          displayIt("City: " + JS[i].venue.city);
           if (JS[i].venue.region !== "")
           {
-            logIt("Country: " + JS[i].venue.region);
+            displayIt("Country: " + JS[i].venue.region);
           }
-          logIt("Country: " + JS[i].venue.country);
-          logIt("\n---------------------------------------------------\n");
+          displayIt("Country: " + JS[i].venue.country);
+          displayIt("\n---------------------------------------------------\n");
         
         }
       }
@@ -112,16 +112,16 @@ function movieThing(parameter) {
   request(queryUrl, function(err, res, body) {
   	var bodyOf = JSON.parse(body);
     if (!err && res.statusCode === 200) {
-      logIt("\n---------------------------------------------------\n");
-      logIt("Title: " + bodyOf.Title);
-      logIt("Release Year: " + bodyOf.Year);
-      logIt("IMDB Rating: " + bodyOf.imdbRating);
-      logIt("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value); 
-      logIt("Country: " + bodyOf.Country);
-      logIt("Language: " + bodyOf.Language);
-      logIt("Plot: " + bodyOf.Plot);
-      logIt("Actors: " + bodyOf.Actors);
-      logIt("\n---------------------------------------------------\n");
+      displayIt("\n---------------------------------------------------\n");
+      displayIt("Title: " + bodyOf.Title);
+      displayIt("Release Year: " + bodyOf.Year);
+      displayIt("IMDB Rating: " + bodyOf.imdbRating);
+      displayIt("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value); 
+      displayIt("Country: " + bodyOf.Country);
+      displayIt("Language: " + bodyOf.Language);
+      displayIt("Plot: " + bodyOf.Plot);
+      displayIt("Actors: " + bodyOf.Actors);
+      displayIt("\n---------------------------------------------------\n");
     }
   });
 };
@@ -130,7 +130,7 @@ function whatItDo() {
   fs.readFile('random.txt', "utf8", function(error, data){
   
       if (error) {
-          return logIt(error);
+          return displayIt(error);
         }
   
     
@@ -145,7 +145,7 @@ function whatItDo() {
   }
     
 
-  function logIt(dataToLog) {
+  function displayIt(dataToLog) {
     
 	console.log(dataToLog);
 

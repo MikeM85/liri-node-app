@@ -2882,3 +2882,74 @@ Album: The Hits--Chapter One
 
 ---------------------------------------------------
 
+
+---------------------------------------------------
+
+Album: This One's for You Too (Deluxe Edition)
+
+---------------------------------------------------
+
+Preview: null
+Artist: Luke Combs
+Song: She Got the Best of Me
+
+---------------------------------------------------
+
+Date: 04/05/2019
+Name: Festival Estéreo Picnic
+
+---------------------------------------------------
+
+Date: 04/10/2019
+Name: Sala Puebla
+City: Mexico
+Country: Mexico
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Shaky Knees Festival
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+Country: Colombia
+City: Bogotá
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Zombie
+Rotten Tomatoes Rating: 40%
+Language: English, Spanish, Italian
+Plot: Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.
+Actors: Tisa Farrow, Ian McCulloch, Richard Johnson, Al Cliver
+
+---------------------------------------------------
+
+Country: Italy
+Release Year: 1979
+IMDB Rating: 6.9
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=121aabd6852b4c2b8be865131959be14
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Skegss
+Song: Got On My Skateboard
+Error occurred: TypeError: Cannot read property 'preview_url' of undefined
