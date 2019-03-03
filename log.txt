@@ -1060,3 +1060,1825 @@ Album: The Hits--Chapter One
 ---------------------------------------------------
 
 Song: I Want It That Way
+
+---------------------------------------------------
+
+Artist: Luke Combs
+Song: She Got the Best of Me
+Preview: null
+Album: This One's for You Too (Deluxe Edition)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/18/2019
+Name: Torquay Hotel
+City: Torquay
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/21/2019
+Name: The Garrison
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/23/2019
+Name: Baby's All Right
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2019
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+Name: Mercury Lounge
+Name: Harvard Athletic Complex
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/28/2019
+Date: 05/26/2019
+City: Sf
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/29/2019
+Name: Constellation Room
+City: Santa Ana
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/30/2019
+Name: The Independent
+Name: The Roxy Theatre
+City: West Hollywood
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/21/2019
+Name: Metropolis Fremantle
+City: Fremantle
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/04/2019
+Name: Thebarton Theatre
+City: Torrensville
+Country: Australia
+City: New York
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: The Enmore Theatre
+City: Newtown
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/07/2019
+Name: Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Name: Forum Melbourne
+City: Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/27/2019
+Name: Fortitude Music Hall
+City: Fortitude Valley
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/16/2019
+Name: Dockville Festival
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+Country: Australia
+
+---------------------------------------------------
+
+Country: CA
+
+---------------------------------------------------
+
+Date: 04/18/2019
+Name: Torquay Hotel
+City: Torquay
+
+---------------------------------------------------
+
+Country: Australia
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/23/2019
+Name: Baby's All Right
+City: Brooklyn
+Date: 05/21/2019
+Name: The Garrison
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2019
+Name: Mercury Lounge
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: Harvard Athletic Complex
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/28/2019
+Country: United States
+City: Sf
+Name: The Independent
+Country: NY
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: CA
+Name: Constellation Room
+City: Santa Ana
+Country: CA
+Date: 05/29/2019
+Country: United States
+Country: United States
+
+---------------------------------------------------
+
+Name: The Roxy Theatre
+City: West Hollywood
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+Date: 05/30/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Metropolis Fremantle
+City: Fremantle
+Country: Australia
+Date: 06/21/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Thebarton Theatre
+City: Torrensville
+Date: 07/04/2019
+Country: Australia
+
+---------------------------------------------------
+
+Date: 07/06/2019
+
+---------------------------------------------------
+
+Name: The Enmore Theatre
+City: Newtown
+Date: 07/07/2019
+Name: Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Name: Forum Melbourne
+City: Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/27/2019
+Name: Fortitude Music Hall
+City: Fortitude Valley
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/16/2019
+Name: Dockville Festival
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Australia
+City: Torquay
+
+---------------------------------------------------
+
+Date: 05/21/2019
+Name: The Garrison
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/23/2019
+Name: Baby's All Right
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2019
+Name: Mercury Lounge
+City: New York
+Country: NY
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 05/26/2019
+City: Boston
+Name: Harvard Athletic Complex
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: The Independent
+Date: 05/28/2019
+City: Sf
+Country: United States
+Country: CA
+
+---------------------------------------------------
+
+Date: 05/29/2019
+
+---------------------------------------------------
+
+Name: Constellation Room
+City: Santa Ana
+Country: CA
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 05/30/2019
+Name: The Roxy Theatre
+City: West Hollywood
+Country: CA
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 06/21/2019
+City: Fremantle
+Name: Metropolis Fremantle
+Country: Australia
+
+---------------------------------------------------
+
+City: Torrensville
+Date: 07/04/2019
+Name: Thebarton Theatre
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: The Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/07/2019
+City: Newtown
+Name: Enmore Theatre
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+City: Melbourne
+Name: Forum Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/27/2019
+Name: Fortitude Music Hall
+City: Fortitude Valley
+Country: Australia
+Name: Torquay Hotel
+
+---------------------------------------------------
+
+Date: 08/16/2019
+City: Hamburg
+Name: Dockville Festival
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/18/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Torquay
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Torquay Hotel
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/23/2019
+Name: Baby's All Right
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/18/2019
+Name: Mercury Lounge
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/21/2019
+Name: Harvard Athletic Complex
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/28/2019
+Date: 05/24/2019
+City: Sf
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Constellation Room
+City: Santa Ana
+Date: 05/29/2019
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/30/2019
+Name: The Roxy Theatre
+Name: The Independent
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: The Garrison
+Name: Metropolis Fremantle
+City: Fremantle
+Country: Australia
+
+---------------------------------------------------
+
+Date: 07/04/2019
+
+---------------------------------------------------
+
+Name: Thebarton Theatre
+City: Torrensville
+Country: Australia
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Date: 07/06/2019
+City: Newtown
+Name: The Enmore Theatre
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/07/2019
+Name: Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+City: Melbourne
+Name: Forum Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+Date: 07/27/2019
+Name: Fortitude Music Hall
+City: Fortitude Valley
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/16/2019
+Date: 06/21/2019
+
+---------------------------------------------------
+
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+Name: Dockville Festival
+City: West Hollywood
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/18/2019
+Name: Torquay Hotel
+City: Torquay
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/21/2019
+Name: The Garrison
+City: Toronto
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Canada
+Date: 05/23/2019
+Name: Baby's All Right
+City: Brooklyn
+Country: NY
+Country: United States
+Date: 05/24/2019
+
+---------------------------------------------------
+
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: Harvard Athletic Complex
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/28/2019
+Name: The Independent
+City: Sf
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/29/2019
+Name: Constellation Room
+City: Santa Ana
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/30/2019
+Name: The Roxy Theatre
+City: West Hollywood
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/21/2019
+Name: Metropolis Fremantle
+City: Fremantle
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/04/2019
+Name: Thebarton Theatre
+City: Torrensville
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: The Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/07/2019
+Name: Enmore Theatre
+Name: Mercury Lounge
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Name: Forum Melbourne
+City: Melbourne
+City: New York
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/27/2019
+Name: Fortitude Music Hall
+City: Fortitude Valley
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/16/2019
+Name: Dockville Festival
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+Country: Australia
+
+---------------------------------------------------
+
+City: Newtown
+
+---------------------------------------------------
+
+Date: 04/18/2019
+
+---------------------------------------------------
+
+Name: Torquay Hotel
+Country: Australia
+
+---------------------------------------------------
+
+Date: 05/21/2019
+Name: The Garrison
+City: Torquay
+City: Toronto
+
+---------------------------------------------------
+
+Date: 05/23/2019
+Name: Baby's All Right
+City: Brooklyn
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2019
+Country: United States
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: Harvard Athletic Complex
+City: Boston
+Country: MA
+Country: United States
+Date: 05/28/2019
+
+---------------------------------------------------
+
+Name: The Independent
+Country: CA
+City: Sf
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/29/2019
+Name: Constellation Room
+City: Santa Ana
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/30/2019
+Name: The Roxy Theatre
+City: West Hollywood
+Country: United States
+Country: CA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/21/2019
+Name: Metropolis Fremantle
+Country: Australia
+
+---------------------------------------------------
+
+City: Fremantle
+Date: 07/04/2019
+
+---------------------------------------------------
+
+City: New York
+Name: Thebarton Theatre
+City: Torrensville
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: Mercury Lounge
+Name: The Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Australia
+City: Newtown
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Name: Forum Melbourne
+City: Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Enmore Theatre
+Date: 07/27/2019
+Country: Australia
+City: Fortitude Valley
+Country: NY
+Date: 08/16/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Germany
+Name: Fortitude Music Hall
+City: Hamburg
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Dockville Festival
+Date: 07/07/2019
+
+---------------------------------------------------
+
+Name: Torquay Hotel
+Date: 04/18/2019
+City: Torquay
+Country: Australia
+Name: The Garrison
+
+---------------------------------------------------
+
+Date: 05/21/2019
+
+---------------------------------------------------
+
+City: Toronto
+Date: 05/23/2019
+Name: Baby's All Right
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2019
+Name: Mercury Lounge
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Country: MA
+Name: Harvard Athletic Complex
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+Date: 05/28/2019
+Name: The Independent
+City: Sf
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Boston
+
+---------------------------------------------------
+
+Name: Constellation Room
+City: Santa Ana
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: The Roxy Theatre
+Date: 05/29/2019
+Date: 05/30/2019
+Country: CA
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 06/21/2019
+Name: Metropolis Fremantle
+City: Fremantle
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/04/2019
+City: Torrensville
+Name: Thebarton Theatre
+
+---------------------------------------------------
+
+Country: Australia
+
+---------------------------------------------------
+
+Name: The Enmore Theatre
+Date: 07/06/2019
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Enmore Theatre
+Date: 07/07/2019
+City: Newtown
+
+---------------------------------------------------
+
+Country: Australia
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Name: Forum Melbourne
+City: Melbourne
+
+---------------------------------------------------
+
+Country: Australia
+
+---------------------------------------------------
+
+Name: Fortitude Music Hall
+Date: 07/27/2019
+City: Fortitude Valley
+
+---------------------------------------------------
+
+Country: Australia
+
+---------------------------------------------------
+
+Date: 08/16/2019
+Name: Dockville Festival
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+Country: CA
+City: West Hollywood
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Torquay Hotel
+
+---------------------------------------------------
+
+City: Torquay
+
+---------------------------------------------------
+
+Name: The Garrison
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+Date: 05/23/2019
+Name: Baby's All Right
+
+---------------------------------------------------
+
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2019
+Name: Mercury Lounge
+Country: NY
+City: New York
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: Harvard Athletic Complex
+City: Boston
+Country: MA
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 05/28/2019
+Name: The Independent
+City: Sf
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/29/2019
+Name: Constellation Room
+Country: CA
+City: Santa Ana
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/30/2019
+Name: The Roxy Theatre
+City: West Hollywood
+Country: CA
+Country: United States
+Date: 05/21/2019
+
+---------------------------------------------------
+
+Name: Metropolis Fremantle
+Date: 06/21/2019
+City: Fremantle
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/04/2019
+Name: Thebarton Theatre
+City: Torrensville
+
+---------------------------------------------------
+
+Country: Australia
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: The Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/07/2019
+Name: Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/27/2019
+Name: Fortitude Music Hall
+City: Fortitude Valley
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/16/2019
+Name: Dockville Festival
+City: Hamburg
+City: Melbourne
+Country: Germany
+
+---------------------------------------------------
+
+Country: Australia
+Name: Forum Melbourne
+Date: 04/18/2019
+Release Year: 1979
+Title: Zombie
+Country: Italy
+Rotten Tomatoes Rating: 40%
+
+---------------------------------------------------
+
+Plot: Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.
+Language: English, Spanish, Italian
+Actors: Tisa Farrow, Ian McCulloch, Richard Johnson, Al Cliver
+IMDB Rating: 6.9
+
+---------------------------------------------------
+
+Release Year: 1979
+Title: Zombie
+Country: Italy
+Language: English, Spanish, Italian
+IMDB Rating: 6.9
+Actors: Tisa Farrow, Ian McCulloch, Richard Johnson, Al Cliver
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Plot: Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.
+Rotten Tomatoes Rating: 40%
+
+---------------------------------------------------
+
+Song: She Got the Best of Me
+Album: This One's for You Too (Deluxe Edition)
+Preview: null
+Artist: Luke Combs
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Song: She Got the Best of Me
+Artist: Luke Combs
+Preview: null
+Album: This One's for You Too (Deluxe Edition)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Zombie
+Country: Italy
+Language: English, Spanish, Italian
+Plot: Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.
+Actors: Tisa Farrow, Ian McCulloch, Richard Johnson, Al Cliver
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 40%
+Release Year: 1979
+IMDB Rating: 6.9
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=121aabd6852b4c2b8be865131959be14
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Date: 04/18/2019
+Name: Torquay Hotel
+Country: Australia
+
+---------------------------------------------------
+
+City: Torquay
+
+---------------------------------------------------
+
+City: Toronto
+Name: The Garrison
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/23/2019
+Country: Canada
+Date: 05/21/2019
+Name: Baby's All Right
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2019
+Name: Mercury Lounge
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: Harvard Athletic Complex
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/28/2019
+Name: The Independent
+City: Sf
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/29/2019
+Name: Constellation Room
+City: Santa Ana
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/30/2019
+Name: The Roxy Theatre
+City: West Hollywood
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/21/2019
+Name: Metropolis Fremantle
+City: Fremantle
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/04/2019
+Name: Thebarton Theatre
+City: Torrensville
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: The Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/07/2019
+Name: Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Name: Forum Melbourne
+City: Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/27/2019
+Name: Fortitude Music Hall
+City: Fortitude Valley
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/16/2019
+Name: Dockville Festival
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+Date: 04/18/2019
+Name: Torquay Hotel
+City: Torquay
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/23/2019
+City: Toronto
+Name: Baby's All Right
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/24/2019
+Name: Mercury Lounge
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/26/2019
+Name: Harvard Athletic Complex
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+City: Brooklyn
+
+---------------------------------------------------
+
+Date: 05/28/2019
+City: Sf
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/21/2019
+Name: Constellation Room
+City: Santa Ana
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/30/2019
+Name: The Roxy Theatre
+City: West Hollywood
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/21/2019
+Name: Metropolis Fremantle
+City: Fremantle
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/04/2019
+Name: Thebarton Theatre
+City: Torrensville
+Name: The Independent
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/06/2019
+Name: The Garrison
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/07/2019
+Name: The Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Name: Forum Melbourne
+City: Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/27/2019
+Name: Fortitude Music Hall
+City: Fortitude Valley
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/16/2019
+Name: Dockville Festival
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+Country: Australia
+Name: Enmore Theatre
+Date: 05/29/2019
+
+---------------------------------------------------
+
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/21/2019
+City: Toronto
+Name: The Garrison
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/23/2019
+Name: Baby's All Right
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Torquay Hotel
+Name: Mercury Lounge
+City: New York
+Country: NY
+Country: United States
+Date: 04/18/2019
+
+---------------------------------------------------
+
+Date: 05/26/2019
+
+---------------------------------------------------
+
+Date: 05/24/2019
+Country: MA
+Country: United States
+City: Boston
+
+---------------------------------------------------
+
+Date: 05/28/2019
+Name: The Independent
+City: Torquay
+Name: Harvard Athletic Complex
+Country: United States
+City: Sf
+Country: CA
+Date: 05/29/2019
+Name: Constellation Room
+City: Santa Ana
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/30/2019
+Name: The Roxy Theatre
+Country: CA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/21/2019
+City: West Hollywood
+City: Fremantle
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/04/2019
+Name: Thebarton Theatre
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Australia
+Name: Metropolis Fremantle
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/07/2019
+Name: Enmore Theatre
+City: Newtown
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/13/2019
+Name: Forum Melbourne
+City: Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/27/2019
+Name: Fortitude Music Hall
+City: Fortitude Valley
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/16/2019
+Name: Dockville Festival
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+City: Torrensville
+Date: 07/06/2019
+Name: The Enmore Theatre
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+---------------------------------------------------
+
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=121aabd6852b4c2b8be865131959be14
+Song: I Want It That Way
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+

@@ -65,11 +65,11 @@ function spotSong(parameter) {
     var queryUrl = "https://rest.bandsintown.com/artists/" + parameter + "/events?app_id=codingbootcamp";
     
     request(queryUrl, function(error, response, body) {
-    console.log("loaded!");
+    // console.log("loaded!");
       if (!error && response.statusCode === 200) {
     
         var JS = JSON.parse(body);
-        console.log(JS);
+        // console.log(JS);
         for (i = 0; i < JS.length; i++)
         {
           var dTime = JS[i].datetime;
